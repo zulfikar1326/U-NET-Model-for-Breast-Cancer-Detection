@@ -46,7 +46,7 @@ Meking177
 
 ---
 
-> [@zulfikarjuniart](https://www.instagram.com/zulfikarjuniarto/) &nbsp;&middot;&nbsp;
-> [@zulfikar1326](https://github.com/zulfikar1326) &nbsp;&middot;&nbsp;
-> [zulfikarjuniarto](https://www.facebook.com/zulfikarjuniarto.zulfi)
+> Instagram [@zulfikarjuniart](https://www.instagram.com/zulfikarjuniarto/) &nbsp;&middot;&nbsp;
+> Github [@zulfikar1326](https://github.com/zulfikar1326) &nbsp;&middot;&nbsp;
+> Facebook [zulfikarjuniarto](https://www.facebook.com/zulfikarjuniarto.zulfi)
 
