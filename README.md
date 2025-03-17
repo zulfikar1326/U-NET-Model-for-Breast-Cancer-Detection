@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#""><img src="![gambar](https://github.com/user-attachments/assets/22dc40c1-ae68-470f-8c4a-8a6d2f0d8cb9)
+  <a href="#""><img src="![gambar](https://github.com/user-attachments/assets/bdfa0d01-dca0-42f0-919b-284c495fcfcc)
 " width="200"></a>
   <br>
   U-NET MODEL FOR BREAST CANCER DETECTION
