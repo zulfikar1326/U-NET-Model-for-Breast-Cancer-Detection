@@ -18,7 +18,7 @@
 </p>
 
 #info
-<ol>
+<ul>
   <li>Nama       : Zulfikar Juniarto</li>
   <li>Npm        : 22010022</li>
   <li>Kelas      : 6TI-P2</li>
