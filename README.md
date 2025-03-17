@@ -4,7 +4,7 @@ Deep Learning Model trained Using the U-NET Tensorflow Algorithm
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="[http://www.amitmerchant.com/electron-markdownify](https://www.researchgate.net/publication/340366141/figure/fig1/AS:875680136957953@1585789822756/Scheme-of-the-U-Net-architecture-and-the-operations-performed-on-the-input-image-in-order.ppm)"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
   <br>
