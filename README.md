@@ -3,7 +3,7 @@
   <a href="#""><img src="![gambar](https://github.com/user-attachments/assets/22dc40c1-ae68-470f-8c4a-8a6d2f0d8cb9)
 " width="200"></a>
   <br>
-  U-NET-Model-for-Breast-Cancer-Detection
+  U-NET MODEL FOR BREAST CANCER DETECTION
   <br>
 </h1>
 
