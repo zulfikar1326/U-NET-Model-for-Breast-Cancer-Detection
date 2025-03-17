@@ -1,6 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="#""><img src="[https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify](https://www.researchgate.net/publication/340366141/figure/fig1/AS:875680136957953@1585789822756/Scheme-of-the-U-Net-architecture-and-the-operations-performed-on-the-input-image-in-order.ppm)](https://www.researchgate.net/publication/340366141/figure/fig1/AS:875680136957953@1585789822756/Scheme-of-the-U-Net-architecture-and-the-operations-performed-on-the-input-image-in-order.ppm)" width="200"></a>
+  <a href="#""><img src="![gambar](https://github.com/user-attachments/assets/22dc40c1-ae68-470f-8c4a-8a6d2f0d8cb9)
+" width="200"></a>
   <br>
   U-NET-Model-for-Breast-Cancer-Detection
   <br>
