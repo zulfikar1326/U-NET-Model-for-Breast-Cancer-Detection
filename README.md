@@ -3,11 +3,11 @@
   <br>
 </h1>
 
-<h4 align="center">Deep Learning Model trained Using the <a href="http://electron.atom.io" target="_blank">U-NET Tensorflow</a> Algorithm.</h4>
+<h4 align="center">Deep Learning Model trained Using the <a href="#" target="_blank">U-NET Tensorflow</a> Algorithm.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+  <a href="[![PyPI version](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)">
+    <img src="https://badge.fury.io/py/tensorflow.svg"
          alt="Gitter">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
