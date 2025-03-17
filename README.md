@@ -1,16 +1,12 @@
-# U-NET-Model-for-Breast-Cancer-Detection
-Deep Learning Model trained Using the U-NET Tensorflow Algorithm
-
-
 <h1 align="center">
   <br>
-  <a href="[http://www.amitmerchant.com/electron-markdownify](https://www.researchgate.net/publication/340366141/figure/fig1/AS:875680136957953@1585789822756/Scheme-of-the-U-Net-architecture-and-the-operations-performed-on-the-input-image-in-order.ppm)"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="#""><img src="[https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify](https://www.researchgate.net/publication/340366141/figure/fig1/AS:875680136957953@1585789822756/Scheme-of-the-U-Net-architecture-and-the-operations-performed-on-the-input-image-in-order.ppm)" width="200"></a>
   <br>
-  Markdownify
+  U-NET-Model-for-Breast-Cancer-Detection
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Deep Learning Model trained Using the U-NET Tensorflow Algorithm <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
