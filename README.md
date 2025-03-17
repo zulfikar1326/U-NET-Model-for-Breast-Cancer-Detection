@@ -18,11 +18,12 @@
 </p>
 
 #info
-
-Nama       : Zulfikar Juniarto
-Npm        : 22010022
-Kelas      : 6TI-P2
-Matakuliah : Computer Vision
+<ol>
+  <li>Nama       : Zulfikar Juniarto</li>
+  <li>Npm        : 22010022</li>
+  <li>Kelas      : 6TI-P2</li>
+  <li>Matakuliah : Computer Vision</li>
+</ol>
 
 ## How To Use
 
