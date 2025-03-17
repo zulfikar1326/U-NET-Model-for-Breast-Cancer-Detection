@@ -11,12 +11,18 @@
          alt="TensorFlow">
 
 <p align="center">
+  <a href="#info">Info</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
 
+#info
+
+Nama       : Zulfikar Juniarto
+Npm        : 22010022
+Kelas      : 6TI-P2
+Matakuliah : Computer Vision
 
 ## How To Use
 
@@ -39,7 +45,7 @@ Meking177
 
 ---
 
-> [amitmerchant.com](https://www.instagram.com/zulfikarjuniarto/) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> [@zulfikarjuniart](https://www.instagram.com/zulfikarjuniarto/) &nbsp;&middot;&nbsp;
+> [@zulfikar1326](https://github.com/zulfikar1326) &nbsp;&middot;&nbsp;
+> [zulfikarjuniarto](https://www.facebook.com/zulfikarjuniarto.zulfi)
 
